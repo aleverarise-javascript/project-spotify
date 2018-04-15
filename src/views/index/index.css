@@ -1,0 +1,18 @@
+.Index{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.Index-searchBox{
+    display: flex;
+}
+
+.Index-results-card{
+    width: 100%;
+}
+
+.content-card-project{
+    height: 130px !important;
+}
